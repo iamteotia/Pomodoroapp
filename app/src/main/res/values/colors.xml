@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 seed colors -->
+    <color name="seed">#6750A4</color>
+
+    <!-- Legacy colors for compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pomodoro-specific semantic colors -->
+    <color name="work_color">#FFE53E3E</color>
+    <color name="break_color">#FF38A169</color>
+    <color name="long_break_color">#FF3182CE</color>
+    <color name="timer_background">#FFE2E8F0</color>
+
+    <!-- Progress indicator colors -->
+    <color name="timer_progress_work">#FFFF6B6B</color>
+    <color name="timer_progress_break">#FF4ECDC4</color>
+</resources>

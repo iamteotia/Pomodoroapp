@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+
+    <!-- Session types -->
+    <string name="work_session">Work Time</string>
+    <string name="short_break">Short Break</string>
+    <string name="long_break">Long Break</string>
+
+    <!-- Timer controls -->
+    <string name="start_timer">Start</string>
+    <string name="pause_timer">Pause</string>
+    <string name="reset_timer">Reset</string>
+    <string name="timer_running">Running</string>
+
+    <!-- Status messages -->
+    <string name="sessions_completed">Sessions completed: %1$d</string>
+    <string name="focus_message">Focus time! Keep going 💪</string>
+    <string name="ready_message">Ready to start your first session?</string>
+    <string name="long_break_message">Great job! Time for a long break 🎉</string>
+    <string name="short_break_message">Take a short break and recharge ☕</string>
+</resources>
