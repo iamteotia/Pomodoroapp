@@ -48,8 +48,8 @@ This app follows **modern Android development best practices**:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
-   cd pomodoro-timer
+   git clone https://github.com/iamteotia/Pomodoroapp
+   cd Pomodoroapp
    ```
 
 2. **Open in Android Studio**
