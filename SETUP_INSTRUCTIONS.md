@@ -10,8 +10,8 @@ This ZIP file contains a complete, ready-to-commit Android project with Material
 
 ```bash
 # Extract the ZIP file to your desired location
-unzip PomodoroTimer_AndroidApp.zip
-cd PomodoroTimer_AndroidApp
+unzip Pomodoroapp.zip
+cd Pomodoroapp
 
 # Initialize Git repository
 git init
@@ -26,7 +26,7 @@ git commit -m "Initial commit: Complete Pomodoro Timer Android app with Material
 git branch -M main
 
 # Add your GitHub repository (replace with your URL)
-git remote add origin https://github.com/yourusername/pomodoro-timer.git
+git remote add origin https://github.com/iamteotia/Pomodoroapp
 
 # Push to GitHub
 git push -u origin main
